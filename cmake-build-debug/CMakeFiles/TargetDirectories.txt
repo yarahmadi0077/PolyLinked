@@ -1,0 +1,3 @@
+/home/yarahmadi/CLionProjects/PolyLinkedin/cmake-build-debug/CMakeFiles/PolyLinkedin.dir
+/home/yarahmadi/CLionProjects/PolyLinkedin/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yarahmadi/CLionProjects/PolyLinkedin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
